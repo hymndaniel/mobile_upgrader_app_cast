@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>AI농장모니터링</title>
+    <link>https://play.google.com/store/apps/details?id=com.jinong.ai_farm_monitoring</link>
+    <link>https://apps.apple.com/kr/app/ai%EB%86%8D%EC%9E%A5%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81/id1618577426</link>
+    <description>
+      <![CDATA[
+        <p>출입자 감지 이미지 조회 가능 일자 조정</p>
+        <p>출입자 감지 이미지 조회 기능 성능 향상</p>
+        <p>확대 이미지 조회 후 최근 조회 사진으로 바로 이동</p>
+        <p>실시간 영상 조회 기능 최신 라이브러리 반영</p>
+      ]]>
+    </description>
+
+    <language>ko-kr</language>
+
+    <!-- Android updates -->
+    <item>
+      <title>Version 2.0.0</title>
+      <sparkle:minimumSystemVersion>2.0.0</sparkle:minimumSystemVersion>
+      <description>
+        <![CDATA[
+            <p>출입자 감지 이미지 조회 가능 일자 조정</p>
+            <p>출입자 감지 이미지 조회 기능 성능 향상</p>
+            <p>확대 이미지 조회 후 최근 조회 사진으로 바로 이동</p>
+            <p>실시간 영상 조회 기능 최신 라이브러리 반영</p>
+        ]]>
+      </description>
+      <pubDate>Tue, 10 May 2023 00:00:00 -0700</pubDate>
+      <enclosure url="https://play.google.com/store/apps/details?id=com.jinong.ai_farm_monitoring"
+                 sparkle:version="1.0.0" />
+    </item>
+
+    <!-- iOS updates -->
+    <item>
+      <title>Version 2.0.0</title>
+      <sparkle:minimumSystemVersion>2.0.0</sparkle:minimumSystemVersion>
+      <description>
+        <![CDATA[
+            <p>출입자 감지 이미지 조회 가능 일자 조정</p>
+            <p>출입자 감지 이미지 조회 기능 성능 향상</p>
+            <p>확대 이미지 조회 후 최근 조회 사진으로 바로 이동</p>
+            <p>실시간 영상 조회 기능 최신 라이브러리 반영</p>
+        ]]>
+      </description>
+      <pubDate>Tue, 10 May 2023 00:00:00 -0700</pubDate>
+      <enclosure url="https://apps.apple.com/kr/app/ai%EB%86%8D%EC%9E%A5%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81/id1618577426"
+                 sparkle:version="1.0.0" />
+    </item>
+  </channel>
+</rss>
