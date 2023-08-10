@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <title>스마트 팜ㅠ</title>
+    <title>스마트 팜뷰</title>
     <!-- Android updates -->
     <item>
-      <title>Version 1.0.1</title>
-      <description>이미지 시간 코드 수정&#10;업데이트 알림 기능 추가
+      <title>Version 2.0.0</title>
+      <description>사용자 권한에 따른 메뉴 구성
       </description>
-      <pubDate>Tue, 10 May 2023 00:00:00 -0700</pubDate>
+      <pubDate>Mon, 7 Aug 2023 00:00:00 -0700</pubDate>
       <enclosure url="https://play.google.com/store/apps/details?id=com.jinong_farm_view_mobile.farm_view"
-                 sparkle:version="1.0.1" sparkle:os="android" />
+                 sparkle:version="2.0.0" sparkle:os="android" />
     </item>
 
     <!-- iOS updates -->
     <item>
-      <title>Version 1.0.1</title>
-      <description>이미지 시간 코드 수정&#10;업데이트 알림 기능 추가
+      <title>Version 2.0.0</title>
+      <description>사용자 권한에 따른 메뉴 구성
       </description>
-      <pubDate>Tue, 10 May 2023 00:00:00 -0700</pubDate>
+      <pubDate>Mon, 7 Aug 2023 00:00:00 -0700</pubDate>
       <enclosure url="https://apps.apple.com/us/app/%EC%8A%A4%EB%A7%88%ED%8A%B8-%ED%8C%9C%EB%B7%B0/id1671964696"
-                 sparkle:version="1.0.1" sparkle:os="ios" />
+                 sparkle:version="2.0.0" sparkle:os="ios" />
     </item>
   </channel>
 </rss>
